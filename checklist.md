@@ -9,7 +9,7 @@ By folder
 - [x] 03-grouping-selectors
 - [x] 04-chaining-selectors
 - [x] 05-descendant-combinator
-- [ ] 06-cascade-fix
+- [x] 06-cascade-fix
 
 ## Flex
 
