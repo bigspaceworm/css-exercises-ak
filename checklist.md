@@ -23,8 +23,8 @@ By folder
 
 ## Margin and padding
 
-- [ ] 01-margin-and-padding-1
-- [ ] 02-margin-and-padding-2
+- [x] 01-margin-and-padding-1
+- [x] 02-margin-and-padding-2
 
 ## Grid
 
