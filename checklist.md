@@ -18,7 +18,7 @@ By folder
 - [x] 03-flex-header-2
 - [x] 04-flex-information
 - [x] 05-flex-modal
-- [ ] 06-flex-layout
+- [x] 06-flex-layout
 - [ ] 07-flex-layout-2
 
 ## Margin and padding
